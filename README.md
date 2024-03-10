@@ -20,6 +20,7 @@ This repository contains a Streamlit web application for generating text using a
 ### Running the App
 
 <!-- Remember to replace the api url -->
+
 ```
 # API endpoints
 BASE_URL = "https://your_domain.com/api/"
