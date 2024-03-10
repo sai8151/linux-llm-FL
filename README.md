@@ -19,6 +19,16 @@ This repository contains a Streamlit web application for generating text using a
 
 ### Running the App
 
+<!-- Remember to replace the api url -->
+```
+# API endpoints
+BASE_URL = "https://your_domain.com/api/"
+UPLOAD_URL = BASE_URL + "upload.php"
+DOWNLOAD_URL = BASE_URL + "download.php"
+DELETE_URL = BASE_URL + "delete.php"
+DOWNLOAD_URL = "https://your_domain.com/api/uploads/server_model.pth"
+```
+
 Run server:
 
 ```
