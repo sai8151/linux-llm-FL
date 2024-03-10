@@ -66,7 +66,3 @@ Access the app through the provided URL.
 - `language_model.pth`: Pre-trained CharRNN model parameters file.
 - `server_model.pth`: Model file to be uploaded to the server.
 - `downloaded_model.pth`: Downloaded model file from the server.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests for any improvements or fixes.
