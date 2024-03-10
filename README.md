@@ -19,10 +19,18 @@ This repository contains a Streamlit web application for generating text using a
 
 ### Running the App
 
+Run server:
+
+```
+cd server
+python3 server.py
+```
+
 Run the Streamlit app using the following command:
 
 ```
-streamlit run app.py
+cd client
+streamlit run client.py
 ```
 
 
