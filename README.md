@@ -19,6 +19,8 @@ This repository contains a Streamlit web application for generating text using a
 
 ### Running the App
 
+[![Watch the video](https://saikiranreddy.info/records/01.png)](https://saikiranreddy.info/records/01.mp4)
+
 `Remember to replace the api url`
 
 ```
