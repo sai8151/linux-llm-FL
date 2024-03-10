@@ -1,0 +1,1 @@
+network speed is very slow how to increase the internet speedection not working check the ethernet cable connections at bote manager. enable to ping external websites connections and ensure that the default gateway is set correctly. try flushing the routing tab
