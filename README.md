@@ -14,7 +14,7 @@ This repository contains a Streamlit web application for generating text using a
 ### Setup
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install the required dependencies using `pip install -r req.txt`.
 3. Make sure to have the pre-trained model file (`language_model.pth`) and the dataset file (`dataset.txt`) in the repository directory.
 
 ### Running the App
@@ -23,7 +23,6 @@ Run the Streamlit app using the following command:
 
 '''
 streamlit run app.py
-
 '''
 
 
